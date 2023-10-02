@@ -42,11 +42,11 @@
         "id": "qFAWp1aEQp3O"
       },
       "source": [
-        "dA = 43.471\n",
-        "dB = 0.00950219\n",
+        "dA = 50.91\n",
+        "dB = 0.01\n",
         "dC = 0\n",
-        "dD = -64460\n",
-        "dHr = -802625 # J/mol\n",
+        "dD = -61116\n",
+        "dHr = -801900 # J/mol\n",
         "R = 8.314 #J/mol"
       ],
       "execution_count": 26,
